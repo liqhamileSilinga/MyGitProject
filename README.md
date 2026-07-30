@@ -18,3 +18,7 @@ This change was made on the login-feature branch.
 
 The login feature allows users to securely authenticate.
 
+## Team Contribution
+
+This section was added by another developer
+
