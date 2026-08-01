@@ -28,3 +28,11 @@ This section was added by another developer
 2. Open the project folder.
 3. Begin making changes and commit them using Git.
 
+
+## Contact Page
+
+This page allows users to contact the project team.
+
+Contact information:
+- Email: support@example.com
+- Phone: 000-000-0000
